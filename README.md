@@ -1,5 +1,5 @@
 
-### Hi there 👋 my name is [Elena Zagainova](https://www.linkedin.com/in/elena-zagainova/), I am a QA Manual and Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
+### Hi there 👋 my name is [Elena ](https://www.linkedin.com/in/elena-zagainova/), I am a QA Manual and Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
  - 🪢 Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile   and Waterfall and Scaled Agile Framework (SAFe).
  
