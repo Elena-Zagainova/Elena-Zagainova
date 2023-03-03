@@ -35,5 +35,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="55"/>&nbsp;                 <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="55"/>&nbsp;                                 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="55"/>&nbsp;                     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55"/>&nbsp;                 <
 GIPHY
 Black Cat Sticker by TRU LUV for iOS & Android | GIPHY
+   
+ 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-Discover & share this TRU LUV Sticker for iOS and Android. Bring your texts and messages to life with our collection of GIPHY Stickers.
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elena-zagainova&theme=gotham&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
