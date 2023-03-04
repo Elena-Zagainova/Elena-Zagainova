@@ -1,4 +1,4 @@
-
+ ![sentiment-870x100](https://im.wampi.ru/2023/03/04/MONTAZNAY-OBLAST-3.png)
 ### Hi there 👋 my name is [Elena ](https://www.linkedin.com/in/elena-zagainova/), I am a QA Manual and Automation Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 
  - 🪢 Deep understanding of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) and Defect Life Cycle including methodologies like Agile   and Waterfall and Scaled Agile Framework (SAFe).
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
- ![sentiment-870x100](https://www.techslang.com/wp-content/uploads/2020/06/qa..jpg)
+ ![sentiment-870x100](https://im.wampi.ru/2023/03/04/MONTAZNAY-OBLAST-1.png)
 
 
  #### :hammer_and_wrench: Languages and Tools :
