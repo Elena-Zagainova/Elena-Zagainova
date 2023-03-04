@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
- ![sentiment-870x100](https://im.wampi.ru/2023/03/04/MONTAZNAY-OBLAST-1.png)
+ ![sentiment-870x100](https://ic.wampi.ru/2023/03/04/MONTAZNAY-OBLAST-1.png)
 
 
  #### :hammer_and_wrench: Languages and Tools :
